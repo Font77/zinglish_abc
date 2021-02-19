@@ -122,7 +122,7 @@ function showCharHindi(arg)
 		document.getElementById('foto1lb3').innerHTML = 'glob';
 		document.getElementById('foto1lb4').innerHTML = 'garri';
 		document.getElementById('foto1lb5').innerHTML = 'gay';
-		document.getElementById('foto1lb6').innerHTML = 'gift';
+		document.getElementById('foto1lb6').innerHTML = 'gipht';
 		break;
 		case 10:
 		document['foto1'].src = 'piqcrs/house.jpg';//house=Gr
@@ -149,7 +149,7 @@ function showCharHindi(arg)
 		document.getElementById('foto1lb2').innerHTML = 'chppl';
 		document.getElementById('foto1lb3').innerHTML = 'chabi';
 		document.getElementById('foto1lb4').innerHTML = 'chirriya';
-		document.getElementById('foto1lb5').innerHTML = 'chmmch';
+		document.getElementById('foto1lb5').innerHTML = 'cmmc';
 		document.getElementById('foto1lb6').innerHTML = '';
 		break;
 		case 12:
@@ -159,10 +159,10 @@ function showCharHindi(arg)
 		document['foto4'].src = 'piqcrs/lizard.jpg';//lizard=CipAqli
 		document['foto5'].src = 'piqcrs/0.gif';		
 		document['foto6'].src = 'piqcrs/0.gif';
-		document.getElementById('foto1lbl').innerHTML = 'chhTri';
-		document.getElementById('foto1lb2').innerHTML = 'Chhilka';
-		document.getElementById('foto1lb3').innerHTML = 'chhbrri';
-		document.getElementById('foto1lb4').innerHTML = 'chhipAkli';
+		document.getElementById('foto1lbl').innerHTML = 'chTri';
+		document.getElementById('foto1lb2').innerHTML = 'Chilka';
+		document.getElementById('foto1lb3').innerHTML = 'chbrri';
+		document.getElementById('foto1lb4').innerHTML = 'chipAkli';
 		document.getElementById('foto1lb5').innerHTML = '';		
 		document.getElementById('foto1lb6').innerHTML = '';	
 		break;      
@@ -177,7 +177,7 @@ function showCharHindi(arg)
 		document.getElementById('foto1lb2').innerHTML = 'zAket';
 		document.getElementById('foto1lb3').innerHTML = 'ziip';
 		document.getElementById('foto1lb4').innerHTML = 'ziins';
-		document.getElementById('foto1lb5').innerHTML = 'ziraf';
+		document.getElementById('foto1lb5').innerHTML = 'ziraph';
 		document.getElementById('foto1lb6').innerHTML = 'zal';
 		break;	
 		case 14:
@@ -202,7 +202,7 @@ function showCharHindi(arg)
 		document['foto5'].src = 'piqcrs/cap.gif';//topi	
 		document['foto6'].src = 'piqcrs/tv.gif';//tivi
 		document.getElementById('foto1lbl').innerHTML = 'tmatr';
-		document.getElementById('foto1lb2').innerHTML = 'tb';
+		document.getElementById('foto1lb2').innerHTML = 'tub';
 		document.getElementById('foto1lb3').innerHTML = 'torch';
 		document.getElementById('foto1lb4').innerHTML = 'tofi';
 		document.getElementById('foto1lb5').innerHTML = 'topi';
@@ -424,7 +424,7 @@ function showCharHindi(arg)
 		document['foto4'].src = 'piqcrs/robot.gif';//robot
 		document['foto5'].src = 'piqcrs/0.gif';		
 		document['foto6'].src = 'piqcrs/0.gif';
-		document.getElementById('foto1lbl').innerHTML = 'rejr';
+		document.getElementById('foto1lbl').innerHTML = 'rezr';
 		document.getElementById('foto1lb2').innerHTML = 'roket';
 		document.getElementById('foto1lb3').innerHTML = 'rbrr';
 		document.getElementById('foto1lb4').innerHTML = 'robot';
